@@ -25,7 +25,9 @@ III. Chức năng
 
 IV. Nền Tảng
 
-      Mọi nền tảng
+      Web
+      Android
+      IOS
 
 V.Nguồn tài nguyên cần sử dụng và tham khảo 
 
