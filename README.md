@@ -3,7 +3,7 @@ Nhóm 1_Quản lí dự án
 
 I.Thành viên nhóm 
 
-      Phạm Tuấn Dũng 
+       Phạm Tuấn Dũng 
 
        Hà Quang Huy 
 
@@ -11,7 +11,7 @@ I.Thành viên nhóm
 
        Bùi Ngọc Đăng 
 
-      Nguyễn Minh Vũ 
+       Nguyễn Minh Vũ 
 
        Vũ Đức Duy 
 
@@ -21,4 +21,4 @@ II. Tên dự án
 
 III.Nguồn tài nguyên cần sử dụng và tham khảo 
 
- 
+https://github.com/RocketChat/Rocket.Chat?fbclid=IwAR1Mtd3AO5p8592TB5rSBcH1cGyCVyA-2ZIERdfrZsvkg7OdXRSV76XdMcs
