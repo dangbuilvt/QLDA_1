@@ -18,7 +18,7 @@ I.Thành viên nhóm
 II. Tên dự án 
 
        Ứng dụng chatbox
-       Project charter: https://docs.google.com/document/d/e/2PACX-1vRW_m22k2tt9eFxeiEylAn3kjRcfbb8sPZ4Q9sOlsKt6acus4s4uthgOnPyPSLXIrMjfD7hFFf-Fk0m/pub
+       Project charter: <iframe src="https://docs.google.com/document/d/e/2PACX-1vRW_m22k2tt9eFxeiEylAn3kjRcfbb8sPZ4Q9sOlsKt6acus4s4uthgOnPyPSLXIrMjfD7hFFf-Fk0m/pub?embedded=true"></iframe>
        
 
 III. Chức năng
