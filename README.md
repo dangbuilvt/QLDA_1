@@ -17,7 +17,8 @@ I.Thành viên nhóm
 
 II. Tên dự án 
 
-       Ứng dụng chatbot 
+       Ứng dụng chatbox
+       Project charter: https://docs.google.com/document/d/1X9t1QsMj5Uil3LzCBp4z-kVZ-BY0O5Kp656Ip73JR_w/edit?usp=sharing
 
 III. Chức năng
 
