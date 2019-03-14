@@ -18,7 +18,6 @@ I.Thành viên nhóm
 II. Tên dự án 
 
        Ứng dụng chatbox
-       [Project charter].(https://docs.google.com/document/d/1X9t1QsMj5Uil3LzCBp4z-kVZ-BY0O5Kp656Ip73JR_w/edit)
 
 III. Chức năng
 
@@ -33,3 +32,5 @@ IV. Nền Tảng
 V.Nguồn tài nguyên cần sử dụng và tham khảo 
 
 https://github.com/RocketChat/Rocket.Chat?fbclid=IwAR1Mtd3AO5p8592TB5rSBcH1cGyCVyA-2ZIERdfrZsvkg7OdXRSV76XdMcs
+
+[project charter](https://docs.google.com/document/d/1X9t1QsMj5Uil3LzCBp4z-kVZ-BY0O5Kp656Ip73JR_w/edit)
